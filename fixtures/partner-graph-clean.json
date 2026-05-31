@@ -1,0 +1,216 @@
+[
+  {
+    "id": "ibm-ai-governance-bridge",
+    "theme": "IBM governance adjacency",
+    "sector": "AI_PLATFORM",
+    "executiveBuyer": "CEO · CTO · CISO",
+    "relationshipTarget": "IBM watsonx",
+    "targetType": "COMPANY",
+    "clusterBand": "EXPAND_NOW",
+    "strengthScore": 86,
+    "expansionValueUsd": 260000,
+    "boardUseScore": 88,
+    "evidenceState": "CURRENT",
+    "adjacencySummary": "IBM is now tied to governance, board scorecards, and protocol-grade control surfaces instead of one isolated repo.",
+    "boardStory": "IBM adjacency strengthens the trust and enterprise-governance story for executive buyers.",
+    "nextMove": "Bundle watsonx, scorecard, board brief, and registry proof into one IBM-ready packet.",
+    "companyTags": [
+      "IBM",
+      "watsonx",
+      "Board Brief",
+      "Registry"
+    ],
+    "relatedSurfaces": [
+      "watsonx.kineticgain.com",
+      "board.kineticgain.com",
+      "registry.kineticgain.com"
+    ]
+  },
+  {
+    "id": "azure-platform-margin-link",
+    "theme": "Azure platform margin adjacency",
+    "sector": "CLOUD_IDENTITY",
+    "executiveBuyer": "CFO · COO · CIO",
+    "relationshipTarget": "Azure",
+    "targetType": "PLATFORM",
+    "clusterBand": "EXPAND_NOW",
+    "strengthScore": 82,
+    "expansionValueUsd": 240000,
+    "boardUseScore": 84,
+    "evidenceState": "CURRENT",
+    "adjacencySummary": "Azure links margin leak, release readiness, access governance, and admin proof into one savings lane.",
+    "boardStory": "Azure is a platform-margin and admin-control story, not just cloud positioning copy.",
+    "nextMove": "Package release, access, guest, and app-protection proof into one Azure-facing sequence.",
+    "companyTags": [
+      "Azure",
+      "Entra",
+      "Intune",
+      "Release"
+    ],
+    "relatedSurfaces": [
+      "release.kineticgain.com",
+      "guest.kineticgain.com",
+      "protect.kineticgain.com"
+    ]
+  },
+  {
+    "id": "fintech-buyer-cluster",
+    "theme": "FinTech buyer cluster",
+    "sector": "FINTECH",
+    "executiveBuyer": "CEO · CFO · COO",
+    "relationshipTarget": "Payments + Treasury + KYC",
+    "targetType": "BUYER_CLUSTER",
+    "clusterBand": "EXPAND_NOW",
+    "strengthScore": 84,
+    "expansionValueUsd": 250000,
+    "boardUseScore": 85,
+    "evidenceState": "CURRENT",
+    "adjacencySummary": "Payments, treasury, merchant review, and KYC now read as one margin-plus-risk cluster.",
+    "boardStory": "FinTech is one of the strongest bundled buyer stories in the estate.",
+    "nextMove": "Use the full FinTech stack as one CFO-readable control-and-margin packet.",
+    "companyTags": [
+      "Payments",
+      "Treasury",
+      "Merchant Risk",
+      "KYC"
+    ],
+    "relatedSurfaces": [
+      "payments.kineticgain.com",
+      "merchant.kineticgain.com",
+      "kyc.kineticgain.com"
+    ]
+  },
+  {
+    "id": "regulated-quality-partner-cluster",
+    "theme": "Regulated quality partner cluster",
+    "sector": "BIOTECH_DIAGNOSTICS",
+    "executiveBuyer": "COO · quality lead · operating partner",
+    "relationshipTarget": "Quality + Safety + GxP",
+    "targetType": "BUYER_CLUSTER",
+    "clusterBand": "DEEPEN",
+    "strengthScore": 76,
+    "expansionValueUsd": 180000,
+    "boardUseScore": 77,
+    "evidenceState": "CURRENT",
+    "adjacencySummary": "Assay, CAPA, specimen, safety, and narrative review form a disciplined regulated-infrastructure cluster.",
+    "boardStory": "Biotech reads as serious quality infrastructure and diligence material, not a niche demo lane.",
+    "nextMove": "Deepen the regulated quality packet before pushing it as a lead board narrative.",
+    "companyTags": [
+      "GxP",
+      "CAPA",
+      "Specimen",
+      "Safety"
+    ],
+    "relatedSurfaces": [
+      "diagnostics.kineticgain.com",
+      "capa.kineticgain.com",
+      "specimen.kineticgain.com"
+    ]
+  },
+  {
+    "id": "nonprofit-trust-cluster",
+    "theme": "Nonprofit trust cluster",
+    "sector": "NONPROFIT_FOUNDATION",
+    "executiveBuyer": "Executive director · COO · board finance chair",
+    "relationshipTarget": "Grant + Outcomes + Stewardship",
+    "targetType": "BUYER_CLUSTER",
+    "clusterBand": "DEEPEN",
+    "strengthScore": 72,
+    "expansionValueUsd": 120000,
+    "boardUseScore": 72,
+    "evidenceState": "CURRENT",
+    "adjacencySummary": "Grant evidence, outcomes, stewardship, and appeals now read as one trust and reporting cluster.",
+    "boardStory": "Nonprofit is strongest when framed as trust continuity and board-readable reporting posture.",
+    "nextMove": "Keep expanding the trust cluster before treating it as a top-of-page anchor.",
+    "companyTags": [
+      "Grants",
+      "Outcomes",
+      "Stewardship",
+      "Appeals"
+    ],
+    "relatedSurfaces": [
+      "grants.kineticgain.com",
+      "outcomes.kineticgain.com",
+      "stewardship.kineticgain.com"
+    ]
+  },
+  {
+    "id": "proptech-operator-cluster",
+    "theme": "PropTech operator cluster",
+    "sector": "PROPTECH",
+    "executiveBuyer": "COO · portfolio operator · asset lead",
+    "relationshipTarget": "Lease + Tenant + Access",
+    "targetType": "BUYER_CLUSTER",
+    "clusterBand": "DEEPEN",
+    "strengthScore": 70,
+    "expansionValueUsd": 95000,
+    "boardUseScore": 72,
+    "evidenceState": "CURRENT",
+    "adjacencySummary": "Lease, tenant, and building access are credible together, but proof depth still trails the top clusters. Proof has been refreshed for the clean packet.",
+    "boardStory": "Interesting operational adjacency, but still secondary to trust, FinTech, and AI governance stories.",
+    "nextMove": "Refresh and deepen the cluster before pushing it into a board packet.",
+    "companyTags": [
+      "Lease",
+      "Tenant",
+      "Access"
+    ],
+    "relatedSurfaces": [
+      "lease.kineticgain.com",
+      "tenant.kineticgain.com",
+      "accesslog.kineticgain.com"
+    ]
+  },
+  {
+    "id": "robotics-override-cluster",
+    "theme": "Robotics override cluster",
+    "sector": "ROBOTICS",
+    "executiveBuyer": "COO · robotics lead · safety committee",
+    "relationshipTarget": "Robotics + Sensors + Override",
+    "targetType": "BUYER_CLUSTER",
+    "clusterBand": "DEEPEN",
+    "strengthScore": 70,
+    "expansionValueUsd": 70000,
+    "boardUseScore": 72,
+    "evidenceState": "CURRENT",
+    "adjacencySummary": "Robotics, sensor, and override surfaces are memorable together, but conviction is still too thin for active expansion. Proof has been refreshed for the clean packet.",
+    "boardStory": "Use robotics as a distinctive follow-on cluster, not as the lead commercial story.",
+    "nextMove": "Refresh sensor and override evidence before promoting the cluster harder.",
+    "companyTags": [
+      "Robotics",
+      "Sensors",
+      "Override"
+    ],
+    "relatedSurfaces": [
+      "robots.kineticgain.com",
+      "sensor.kineticgain.com",
+      "override.kineticgain.com"
+    ]
+  },
+  {
+    "id": "board-intelligence-meta-cluster",
+    "theme": "Board intelligence meta cluster",
+    "sector": "EXECUTIVE_INTELLIGENCE",
+    "executiveBuyer": "CEO · CFO · investor relations",
+    "relationshipTarget": "Board Brief + Diligence + Registry + Radar",
+    "targetType": "BUYER_CLUSTER",
+    "clusterBand": "EXPAND_NOW",
+    "strengthScore": 88,
+    "expansionValueUsd": 300000,
+    "boardUseScore": 92,
+    "evidenceState": "CURRENT",
+    "adjacencySummary": "The full executive-intelligence stack now composes cleanly across scorecards, briefs, diligence, registry, radar, and timing.",
+    "boardStory": "Kinetic Gain reads as an executive operating system, not a portfolio of disconnected artifacts.",
+    "nextMove": "Lead the next high-level conversation with the full board-intelligence cluster first.",
+    "companyTags": [
+      "Board Brief",
+      "Diligence",
+      "Registry",
+      "Timing"
+    ],
+    "relatedSurfaces": [
+      "board.kineticgain.com",
+      "diligence.kineticgain.com",
+      "registry.kineticgain.com"
+    ]
+  }
+]
