@@ -1,46 +1,9 @@
-# Partner Graph
+> **🚫 Archived 2026-05-31 — superseded by the Sales Enablement Stack + Kinetic Gain Suite spec layer**
+>
+> Relationship and adjacency mapping is well-served by purpose-built CRM/relationship tools (LinkedIn, Clay, Cliently). The portfolio's contribution is better expressed via the Sales Enablement Stack and the open Suite specs that vendors can adopt directly.
+>
+> This repo is left public as a historical record of the exec-family expansion sweep. Use the linked successor for ongoing buyer-facing surfaces. The README content below is preserved as-was at archive time.
 
-Relationship map for buyer, platform, company, and operator-surface adjacency across the Kinetic Gain executive-intelligence estate.
+---# Partner Graph
 
-- Live: `http://partners.kineticgain.com/`
-- Status: `v0.1-shipped`
-
-## What it does
-
-- relationship lane covering buyer, platform/company adjacency, strength, and next move
-- adjacency map tying named companies back to live surfaces and opportunity themes
-- buyer-link layer showing which executive conversations connect multiple lanes
-- priority-cluster view rolling the graph into `expand now`, `deepen`, and `watch` clusters
-- reproducible CLI and static site from the same sample relationship export
-
-## Local run
-
-```powershell
-cd partner-graph
-npm install
-npm run verify
-npm run prerender
-```
-
-Then open:
-
-- `/`
-- `/relationship-lane`
-- `/adjacency-map`
-- `/buyer-links`
-- `/priority-clusters`
-- `/verification`
-- `/docs`
-
-## CLI
-
-```powershell
-npx partner-graph fixtures/partner-graph.json --format summary
-npx partner-graph fixtures/partner-graph-clean.json --format json
-```
-
-## Notes
-
-- synthetic sample data only
-- relationship strength and adjacency are modeled, not live pipeline or partner-system truth
-- footer links point to GitHub, LinkedIn, and Kinetic Gain
+Relationship map for buyer, 
